@@ -1,0 +1,37 @@
+
+.calcontainer{
+    width: 320px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    border: solid;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+button{
+    margin: 5px;
+    font-size: large;
+    background-color: purple;
+    color: white;
+}
+.displaywindow{
+    width: 300px;
+    margin: auto;
+}
+.window{
+    margin-top: 20px;
+    width: 100%;
+}
+.calkeys{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 300px;
+    border-style: solid;
+    background-color: lavender;
+
+}
+
